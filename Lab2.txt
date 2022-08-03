@@ -10,7 +10,7 @@ Download pem file into your local machine
 Step 3(Create Security group)
 Create a Security Group with name “PublicSG” and give it any description you prefer
 Select your default VPC
-With the following  Inbound rule
+With the following  Inbound rule.
 Type      Source
 SSH         My IP
 HTTP       Anywhere IPv4
