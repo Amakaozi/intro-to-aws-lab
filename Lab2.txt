@@ -15,7 +15,7 @@ Type      Source
 SSH         My IP
 HTTP       Anywhere IPv4
 HTTP       Anywhere IPv6
-
+SSH        Anywhere IPV4
 Step 4 (Create a Launch Template)
 Create Launch template , give it a name and description you prefer.
 Select “Amazon Linux 2 AMI “ under Application and OS Images
@@ -39,4 +39,5 @@ Modify and update every step you took to achieve the lab, that was not captured 
 On the terminal run command git add Lab2.txt
 Git commit -m “launch template demo”
 Push to your personal repo.
+
 
