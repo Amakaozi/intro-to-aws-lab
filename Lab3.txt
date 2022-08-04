@@ -18,6 +18,7 @@ Step3
 Go back to your EC2 instance and connect to it using the 'aws cloud shell" not EC2 Connect.
 Upload the key pair of the instance from your local machine into the cloud shell
 Run the command ls -la to verify that your key is uploaded correctly.
+chmod 400 Linux-Lab2.pem
 Run command sudo ssh -i "<keypair name" ec2-user@<public-ip-address>.compute-1.amazonaws.com
 To connect to your EC2 instance
 Send screenshoot for confirmation.
@@ -27,8 +28,3 @@ Step3(Documentation)
 Document all the steps in the file you have opened in the editor.
 Save and git add and git commit
 Push to your personal repo.
-
-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
-
-https://github.com/Amakaozi/-intro-to-aws-labs-
-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
