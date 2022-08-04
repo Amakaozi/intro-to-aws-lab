@@ -28,3 +28,7 @@ Document all the steps in the file you have opened in the editor.
 Save and git add and git commit
 Push to your personal repo.
 
+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
+
+https://github.com/Amakaozi/-intro-to-aws-labs-
+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
