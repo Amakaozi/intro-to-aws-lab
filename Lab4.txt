@@ -5,7 +5,7 @@ Open the new file(Lab3) in the editor, to allow you add steps you took to comple
 
 Step 2:(NB: Use key pair and security group created in former lab)
 Launch an EC2 Instance.
-SSH into your instance and create a text file with name "ebs_backup.txt" using the command sudo touch "ebs_backup.txt"
+SSH into your instance and create a text file with name "ebs_backup.txt" using the command l
 Run command ls -la and send screenshot for confirmation
 Go to Elastic Block Store tab, click Snapshots
 Create snapshot, select "Instance", select your instance ID from the drop down button
