@@ -40,5 +40,5 @@ Send screenshot for confirmation.
 Step 6
 Once confirmed, kindly clean up your AWS account.
 Edit the file in VSCode editor, save and push to your personal remote repo.
-
+All instances, volume and snapshot deleted
 
