@@ -2,6 +2,7 @@ Lab5
 Step1 
 On VScode terminal navigate to directory AWSLabs and run command git pull https://github.com/awscloudessentials/intro-to-aws-lab.git
 Open the new file(Lab5) in the editor, to allow you add steps you took to complete the lab.
+I used git bash not wsl to get the task done.
 
 Step 2:
 Go to your default VPC dashboard and select NAT gateways
@@ -33,7 +34,7 @@ Step 5 (setting up ssh agent forwarding)
 On WSL, get to the location of your keypair and run the following commands
 mv <keypairname> ~/.ssh/<keyname> (remove the .pem extension in the name)
 eval $(ssh-agent)  
-chmod 400 ~/.ssh/<keypair name>    
+chmod 400 ~/.ssh/<keypair name>   
 ssh-add -k ~/.ssh/<keypair name> 
 #ssh -A -i ~/.ssh/<keypair name> ec2-user@<public IP of public-ec2>
 
