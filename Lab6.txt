@@ -62,6 +62,7 @@ Save rules
 Select the Target group created in step 4
 Select the 2 instances and click on register targets
 Verify that the health status shows healthy.
+Added HTTP to access the web browser
 
 Step 7
 On EC2 dashboard click Load Balancers
