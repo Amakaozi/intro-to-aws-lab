@@ -65,6 +65,8 @@ THEN
 sudo yum install stress -y
 THEN
 sudo stress --cpu 2 --timeout 200
+Chmod my Key pair in Powershell
+Terminated the EC2 manually after running the stress test
 
 Verify that the EC2 you ran the test on is being terminated while a new EC2 is being spun up on the EC2 dashboard.
 Paste screenshot
