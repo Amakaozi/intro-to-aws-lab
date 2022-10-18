@@ -11,6 +11,7 @@ click on create bucket
 
 Step 3
 go to the bucket you just created and upload the download files from the group "coffee.jpg", "index.html", "error.html" and  "extra-page.html"
+I Edited the Static website hosting before file upload
 click on properties tab, scrol down to static website hosting, click on edit
 check enable
 type index.html, type error.html and click save
