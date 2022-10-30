@@ -14,6 +14,7 @@ Give user2, programmatic access only
 
 Step 4 
 create an IAC group and attach an administrator policy to the group
+I created the IAC group with my old user administrator role
 Add user1 and user2 to the group
 Login as user1  and create  user3 and give them console and programmatic access.
 As user1 create an s3 bucket and upload a file
