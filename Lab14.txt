@@ -20,6 +20,7 @@ Login as user1  and create  user3 and give them console and programmatic access.
 As user1 create an s3 bucket and upload a file
 
 Step 5
+Run the command "aws configure --profile user2" in your VS code terminal to enable you login your user2 credentials
 Login as user2 programmatically on your command line by creating a user2 profile with the credentials generated from IAM
 List the content of the s3 bucket created by user1 using the command "aws s3 ls --profile user2"
 Post screenshot
