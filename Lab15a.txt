@@ -13,6 +13,7 @@ Step 3
 
 go to s3 create bucket mygeorge-demo-site.com (use your own name/surname/nickname)
 upload all the download file into the your S3 bucket 
+I uploaded the folder that contained all the files at once in my S3 bucket
 
 Step 4
 
